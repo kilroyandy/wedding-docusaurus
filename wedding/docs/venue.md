@@ -1,8 +1,10 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 ---
 
 # The Venue
+
+![The Front of the Whitworth Art Gallery](/img/whitfront.jpg)
 
 ## Address
 
@@ -25,11 +27,16 @@ M15 6ER
 
 ## Notes for Drivers
 
+:::info
+
+Lovingly stolen from the Whitworth's web site 😝
+:::
+
 Due to the 'bus gates' on Oxford Road, general traffic is prohibited on Oxford Road between Hathersage Road and Portland Street, between 6am and 9pm, 7 days a-week.
-Black cabs are allowed down this road with no restrictions.
+Black cabs and Taxis etc are allowed down this road with no restrictions.
 
-Visitors coming from South Manchester via Wilmslow Road are advised to turn left at Moss Lane East, right at Lloyd Street North and then right onto Denmark Road.
+Visitors driving from South Manchester via Wilmslow Road are advised to turn left at Moss Lane East, right at Lloyd Street North and then right onto Denmark Road.
 
-Visitors coming from the city centre are advised to come off the Mancunian Way at Cambridge Street, follow the road down, then turn left at Denmark Road.
+Visitors driving from the city centre are advised to come off the Mancunian Way at Cambridge Street, follow the road down, then turn left at Denmark Road.
 
 You can find out more about the bus gates and where they are located by visiting [Manchester City Council’s](http://www.manchester.gov.uk/info/471/parking_in_public_areas/7420/bus_gates/2) website.
