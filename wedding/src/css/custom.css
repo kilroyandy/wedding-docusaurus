@@ -37,3 +37,13 @@
 [data-theme="dark"] .docusaurus-highlight-code-line {
 	background-color: rgba(0, 0, 0, 0.3);
 }
+
+.hero {
+	background: linear-gradient(rgb(255, 102, 153, 1), rgba(255, 102, 153, 0.7)),
+		url(/img/whitworth2.jpg);
+	background-size: cover;
+}
+
+.hero__subtitle {
+	font-weight: 600;
+}
