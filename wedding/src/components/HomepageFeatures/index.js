@@ -9,13 +9,13 @@ const FeatureList = [
 		description: (
 			<>All the information about our reception on the 17th September 2022.</>
 		),
-		link: "docs/intro",
+		link: "docs/welcome",
 	},
 	{
 		title: "Where to Stay",
 		Svg: require("@site/static/img/undraw_departing.svg").default,
 		description: <>Some thoughts on places to stay in Manchester.</>,
-		link: "",
+		link: "docs/wheretostay",
 	},
 	{
 		title: "What to See",
@@ -23,7 +23,7 @@ const FeatureList = [
 		description: (
 			<>Some information of things to do and places to eat in Manchester.</>
 		),
-		link: "",
+		link: "docs/thingstodo",
 	},
 ];
 

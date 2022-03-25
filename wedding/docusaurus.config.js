@@ -54,7 +54,7 @@ const config = {
 				items: [
 					{
 						type: "doc",
-						docId: "intro",
+						docId: "welcome",
 						position: "left",
 						label: "Information",
 					},
@@ -80,11 +80,28 @@ const config = {
 						items: [
 							{
 								label: "Information",
-								to: "/docs/intro",
+								to: "/docs/welcome",
+							},
+							{
+								label: "Venue",
+								to: "/docs/venue",
 							},
 							{
 								label: "Contact Us",
 								to: "/docs/contact",
+							},
+						],
+					},
+					{
+						title: "Visiting Manchester",
+						items: [
+							{
+								label: "Where to Stay",
+								to: "/docs/wheretostay",
+							},
+							{
+								label: "What to Do",
+								to: "/docs/thingstodo",
 							},
 						],
 					},
