@@ -166,6 +166,14 @@ const config = {
 				//... other Algolia params
 			},
 		}),
+	plugins: [
+		[
+			require.resolve("@cmfcmf/docusaurus-search-local"),
+			{
+				// Options here
+			},
+		],
+	],
 };
 
 module.exports = config;
