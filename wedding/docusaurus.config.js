@@ -12,7 +12,7 @@ const config = {
 	baseUrl: "/",
 	onBrokenLinks: "throw",
 	onBrokenMarkdownLinks: "warn",
-	favicon: "img/favicon.ico",
+	favicon: "img/fav.png",
 	organizationName: "A & R", // Usually your GitHub org/user name.
 	projectName: "wedding-docusaurus", // Usually your repo name.
 
@@ -23,9 +23,10 @@ const config = {
 			({
 				docs: {
 					sidebarPath: require.resolve("./sidebars.js"),
+					breadcrumbs: false,
 					// Please change this to your repo.
-					editUrl:
-						"https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
+					// editUrl:
+					// 	"https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
 				},
 				blog: {
 					showReadingTime: true,
@@ -44,17 +45,24 @@ const config = {
 		/** @type {import('@docusaurus/preset-classic').ThemeConfig} */
 		({
 			navbar: {
-				title: "Andrew & Rosie",
+				title: "",
 				logo: {
-					alt: "My Site Logo",
-					src: "img/logo.svg",
+					alt: "Andrew and Rosie",
+					src: "img/logocrop.png",
+					srcDark: "img/logoinv.png",
 				},
 				items: [
 					{
 						type: "doc",
 						docId: "intro",
 						position: "left",
-						label: "Tutorial",
+						label: "Information",
+					},
+					{
+						type: "doc",
+						docId: "contact",
+						position: "left",
+						label: "Contact Us",
 					},
 					// { to: "/blog", label: "Blog", position: "left" },
 					// {
@@ -68,11 +76,15 @@ const config = {
 				style: "dark",
 				links: [
 					{
-						title: "Docs",
+						title: "Wedding Reception",
 						items: [
 							{
-								label: "Tutorial",
+								label: "Information",
 								to: "/docs/intro",
+							},
+							{
+								label: "Contact Us",
+								to: "/docs/contact",
 							},
 						],
 					},
@@ -93,25 +105,48 @@ const config = {
 					// 		},
 					// 	],
 					// },
-					{
-						title: "More",
-						items: [
-							{
-								label: "Blog",
-								to: "/blog",
-							},
-							{
-								label: "GitHub",
-								href: "https://github.com/facebook/docusaurus",
-							},
-						],
-					},
+					// {
+					// 	title: "More",
+					// 	items: [
+					// 		{
+					// 			label: "Blog",
+					// 			to: "/blog",
+					// 		},
+					// 		{
+					// 			label: "GitHub",
+					// 			href: "https://github.com/facebook/docusaurus",
+					// 		},
+					// 	],
+					// },
 				],
 				copyright: `Copyright © ${new Date().getFullYear()} Andrew & Rosie`,
 			},
 			prism: {
 				theme: lightCodeTheme,
 				darkTheme: darkCodeTheme,
+			},
+			algolia: {
+				// The application ID provided by Algolia
+				appId: "B9BJ3C8ERK",
+
+				// Public API key: it is safe to commit it
+				apiKey: "2a4febcf3a5ea851ca81c244c76c9ac3",
+
+				indexName: "wedding",
+
+				// Optional: see doc section below
+				contextualSearch: true,
+
+				// Optional: Specify domains where the navigation should occur through window.location instead on history.push. Useful when our Algolia config crawls multiple documentation sites and we want to navigate with window.location.href to them.
+				externalUrlRegex: "external\\.com|domain\\.com",
+
+				// Optional: Algolia search parameters
+				searchParameters: {},
+
+				// Optional: path for search page that enabled by default (`false` to disable it)
+				searchPagePath: "search",
+
+				//... other Algolia params
 			},
 		}),
 };
