@@ -16,16 +16,18 @@ M15 6ER
 
 ## Map
 
-<iframe
+Handy [Google Maps Link](https://www.google.com/maps/place/The+Whitworth/@53.4602732,-2.2315335,17z/data=!3m2!4b1!5s0x487bb1896874b94b:0xa15951d5cde646b5!4m5!3m4!1s0x487bb189682cbb53:0x53931302caa2348f!8m2!3d53.46027!4d-2.2293448) or use the below.
+
+<iframe class="gmap"
 	src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2375.4580677413273!2d-2.231533483986247!3d53.460273173872345!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487bb189682cbb53%3A0x53931302caa2348f!2sThe%20Whitworth!5e0!3m2!1sen!2suk!4v1648213248936!5m2!1sen!2suk"
-	width="500"
+	width="100%"
 	height="450"
 	allowfullscreen="yes"
 	loading="lazy"
 	referrerpolicy="no-referrer-when-downgrade"
 ></iframe>
 
-## Notes for Drivers
+## Notes for Drivers on the Day
 
 :::info
 

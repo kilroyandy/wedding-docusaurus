@@ -63,3 +63,25 @@ p {
 		width: 150px;
 	}
 }
+
+.aa-SubmitIcon,
+.aa-Form:focus-within,
+.aa-DetachedSearchButtonPlaceholder,
+.aa-Input,
+.aa-DetachedSearchButton:focus {
+	--aa-primary-color-rgb: rgb(255, 102, 153);
+	color: var(--aa-primary-color-rgb);
+}
+
+[data-theme="dark"] .aa-Input::placeholder,
+.aa-Input,
+.aa-ClearIcon,
+.aa-DetachedSearchButton {
+	--aa-text-color-rgb: rgb(255, 102, 153);
+	color: var(--aa-text-color-rgb);
+}
+
+mark {
+	background-color: rgb(255, 102, 153);
+	color: black;
+}
