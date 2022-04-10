@@ -4,7 +4,7 @@ import styles from "./styles.module.css";
 
 const FeatureList = [
 	{
-		title: "The Wedding Reception",
+		title: "The Reception",
 		Svg: require("@site/static/img/undraw_wedding.svg").default,
 		description: (
 			<>All the information about our reception on the 17th September 2022.</>

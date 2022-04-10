@@ -7,7 +7,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 /** @type {import('@docusaurus/types').Config} */
 const config = {
 	title: "Andrew and Rosie",
-	tagline: "Our Wedding Reception",
+	tagline: "Our Reception",
 	url: "https://andrewandrosie.com",
 	baseUrl: "/",
 	onBrokenLinks: "throw",
