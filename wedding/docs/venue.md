@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+title: The Venue
 ---
 
 # The Venue
@@ -34,6 +35,8 @@ Handy [Google Maps Link](https://www.google.com/maps/place/The+Whitworth/@53.460
 Lovingly stolen from the Whitworth's web site 😝
 :::
 
+### Dropping off at Venue
+
 Due to the 'bus gates' on Oxford Road, general traffic is prohibited on Oxford Road between Hathersage Road and Portland Street, between 6am and 9pm, 7 days a-week.
 Black cabs and Taxis etc are allowed down this road with no restrictions.
 
@@ -42,3 +45,9 @@ Visitors driving from South Manchester via Wilmslow Road are advised to turn lef
 Visitors driving from the city centre are advised to come off the Mancunian Way at Cambridge Street, follow the road down, then turn left at Denmark Road.
 
 You can find out more about the bus gates and where they are located by visiting [Manchester City Council’s](http://www.manchester.gov.uk/info/471/parking_in_public_areas/7420/bus_gates/2) website.
+
+### Parking Nearby
+
+If you are planning to drive and park near the venue, the closest option is Cecil street car park (7min walk from venue). Information on parking costs etc can be found [here](https://www.estates.manchester.ac.uk/services/operationalservices/carparking/)
+
+There are also a small number of parking bays available on Denmark road, which runs along the north side of the venue.
