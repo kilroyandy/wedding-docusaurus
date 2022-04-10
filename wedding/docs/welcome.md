@@ -5,7 +5,7 @@ title: Welcome
 
 # Welcome
 
-<img class="photo" src="/img/rosieandrew.jpg" alt="Rosie and Andrew" style={{float: "right", borderRadius: "50%", border: "#ff6699 solid 5px", width: 300}}/>
+<img class="photo" src="/img/rosieandrew.jpg" alt="Rosie and Andrew" width="200px"/>
 
 Hi! Welcome to our website, we can’t wait to celebrate with you in September.
 
