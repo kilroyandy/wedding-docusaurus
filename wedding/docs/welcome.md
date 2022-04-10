@@ -5,9 +5,11 @@ title: Welcome
 
 # Welcome
 
-<img class="photo" src="/img/rosieandrew.jpg" alt="Rosie and Andrew" style={{float: "right", borderRadius: "50%", border: "#ff6699 solid 5px", width: 300}}/>
+<img class="photo" src="/img/rosieandrew.jpg" alt="Rosie and Andrew" width="200px"/>
 
-Hi! Welcome to our website, we can’t wait to celebrate with you in September.
+Hi! Welcome to our website 😊
+
+As you may know, our Civil Partnership ceremony will take place on the 15th of September with just us and our witnesses in attendance. However we look forward to celebrating with you all on Saturday 17th September with food, drinks, music, and dancing!
 
 On here you’ll find the schedule for the day, how to get there, some ideas for where to stay and also some fun stuff to do in Manchester if you’re staying longer.
 
