@@ -86,3 +86,8 @@ mark {
 	background-color: rgb(255, 102, 153);
 	color: black;
 }
+
+
+.hash-link {
+	display: none;
+}
