@@ -42,7 +42,7 @@ export default function Home() {
 	return (
 		<Layout
 			title={`${siteConfig.title}`}
-			description="Description will go into a meta tag in <head />"
+			description="Our Reception | 17th September 2022"
 		>
 			<HomepageHeader />
 			<main>
