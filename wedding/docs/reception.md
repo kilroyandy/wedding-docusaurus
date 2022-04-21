@@ -3,6 +3,12 @@ sidebar_position: 3
 title: The Reception
 ---
 
+## Dress Code
+
+Dress code for the reception is **formal**. We'd love everyone to dress up for the occasion but know their may be some confusion as this is a reception and not a ceremony. If helpful, just think "I'm off to a wedding, I should put on my wedding clothes" and you'll be grand 😊.
+
+Please remember that it is happening in September and we'd love you all to have fun dancing too so comfort is key. We'll both be in bride/groom attire, but we'll be in trainers so our feet don't hate us at the end of the night!
+
 ## Arrival - from 4:30 pm
 
 We'll be able to accept folks into the building for the reception from 4:30 pm.
