@@ -7,7 +7,6 @@ title: The Reception
 
 Dress code for the reception is **formal**. We'd love everyone to dress up for the occasion but know there may be some confusion as this is a reception and not a ceremony. If helpful, just think "I'm off to a wedding, I should put on my wedding clothes" and you'll be grand 😊.
 
-We'd love you all to have fun dancing and comfort is key, so feel free to wear trainers or flats etc. We'll both be in bride/groom attire, but we'll be in trainers so our feet don't hate us at the end of the night.
 
 ## Arrival - from 4:30 pm
 
