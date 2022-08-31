@@ -24,7 +24,7 @@ Drinks reception with Canapés.
 
 ## Dinner - 6.30 pm to 8.00 pm
 
-A tasty evening meal for all with plenty of wine in the Whitworth Gallery restaraunt.
+A tasty evening meal for all with plenty of wine in the Whitworth Gallery restaurant.
 
 ## Band and Dance - 8.00 pm to 9.00 pm
 
