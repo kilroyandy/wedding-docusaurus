@@ -20,28 +20,35 @@ If arriving later and the front doors have closed, please use the entrance to th
 
 ## Reception - 4.30 pm to 6.30 pm
 
-Drinks reception with Canapés
+Drinks reception with Canapés. 
 
-## Buffet - 6.30 pm to 8.00 pm
+## Dinner - 6.30 pm to 8.00 pm
 
-Buffet dinner and speeches
+A tasty evening meal for all with plenty of wine in the Whitworth Gallery restaurant.
 
 ## Band and Dance - 8.00 pm to 9.00 pm
 
-First dance with live band
+The band will kick off with a first dance for us and then some classic tunes to dance the eve away!
 
 ## Cake - 9.00 pm to 9.30 pm
 
-Cake served and band take a break
+Whilst the band take a break, we can have some cake! 
 
 ## Band next set - 9.30 pm to 10.30 pm
 
-More live music
+More live music and awesome dancing.
 
-## Food - 10.30 pm
+## More Foods - 10.30 pm
 
-Late evening food served
+After all that dancing time for some late night hot butties and wedges.
 
 ## DJ set - 10.30 pm to 12.00 am
 
+After too many potato wedges, back on the dancefloor we go!
+
 ## Carriages - 12.00 am
+
+Go home now thank you it's been lovely we need sleeps.
+
+
+If you have any questions about the day please do get in touch with us, more than happy to chat anything through or make sure we've got all your dietary requiremnts down etc.
