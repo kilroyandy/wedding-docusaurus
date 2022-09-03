@@ -18,10 +18,13 @@ const FeatureList = [
 		link: "docs/wheretostay",
 	},
 	{
-		title: "What to See",
+		title: "What to Do",
 		Svg: require("@site/static/img/undraw_eating_together.svg").default,
 		description: (
-			<>Some information of things to do and places to eat in Manchester.</>
+			<>
+				If staying in Manchester for a few days, here's a few of our favourite
+				restaurants and bars to visit.
+			</>
 		),
 		link: "docs/thingstodo",
 	},
