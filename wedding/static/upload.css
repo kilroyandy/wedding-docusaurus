@@ -1,0 +1,18 @@
+.uploadcare--widget__button.uploadcare--widget__button_type_open,
+button {
+  background: #fc15d1;
+  color: #fff;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+  background-color: #fff;
+}
+
+button {
+  border-radius: 6px;
+  border: 0px;
+  padding: 0.4em 1em;
+  width: auto;
+
+}

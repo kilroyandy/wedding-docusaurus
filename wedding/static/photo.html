@@ -1,0 +1,18 @@
+<head>
+	<script src="https://ucarecdn.com/libs/widget/3.x/uploadcare.full.min.js"></script>
+	<link rel="stylesheet" type="text/css" href="upload.css">
+	<script>
+		UPLOADCARE_SYSTEM_DIALOG = "true";
+		document.addEventListener("DOMContentLoaded", () => {
+			uploadcare.Widget('[name="file"]', {
+				publicKey: "744597848fd57f6b5913",
+				multiple: true,
+			});
+		});
+	</script>
+</head>
+
+<input type="hidden" name="file" />
+<br>
+<br>
+<button onClick="window.location.reload();">Upload more</button>
